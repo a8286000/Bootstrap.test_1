@@ -1,0 +1,55 @@
+@media only screen and (max-width: 1599px) {
+    
+}
+
+@media only screen and (max-width: 1199px) {
+    
+    
+    @media only screen and (orientation: portrait) {
+        
+    }
+
+    @media only screen and (orientation: landscape) {
+        
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    
+    
+    @media only screen and (orientation: portrait) {
+        
+    }
+
+    @media only screen and (orientation: landscape) {
+        
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    
+    
+    @media only screen and (orientation: portrait) {
+        
+    }
+
+    @media only screen and (orientation: landscape) {
+        
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    
+    
+    @media only screen and (orientation: portrait) {
+        
+    }
+
+    @media only screen and (orientation: landscape) {
+        
+    }
+}
+
+@media(-webkit-min-device-pixel-ratio:1.5),(min--moz-device-pixel-ratio:1.5),(-o-min-device-pixel-ratio:3/2),(min-resolution:1.5dppx),(min-resolution: 192dpi) {
+    
+}
